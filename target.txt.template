@@ -1,0 +1,6 @@
+POST ${TGT_URL}
+Content-Type: application/json
+Origin: http://example.com
+Referer: http://example.com/index.html
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+@${TGT_BODY_JSON}.json

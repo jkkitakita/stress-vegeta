@@ -1,0 +1,6 @@
+# Vegeta stress 
+/reports/**/*.bin
+/reports/**/*.html
+/reports/**/*.txt
+/reports/**/*.json
+target.txt
